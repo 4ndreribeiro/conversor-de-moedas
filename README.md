@@ -17,11 +17,11 @@
 - **RequestManager:** classe responsavel por fazer as requisisões HTTP à API.
 
 ## Tecnologias utilizadas
-Java 17
-InteliJ IDEA
-ExchangeRate-API
-Gson
-Postman
+- **Java 17**
+- **InteliJ IDEA**
+- **ExchangeRate-API**
+- **Gson**
+- **Postman**
 
 ## Passos para Completar o Desafio
 
